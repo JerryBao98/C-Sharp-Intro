@@ -25,8 +25,12 @@ namespace Name
     }
     class Program
     {
+        //Refer to an indexer
         static void Main(string[] args) 
         {  
+            var Cookie = HTTPCookie();
+            Cookie[name] = "Jerry";
+            System.Console.WriteLine();
         }
     }
 }
