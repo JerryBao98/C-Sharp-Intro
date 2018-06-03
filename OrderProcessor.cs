@@ -6,6 +6,8 @@ namespace Testability
     {
         private readonly ShippingCalculator _shippingCalclator;
     }
+
+    // the constructor
     public OrderProcessor(){
         _shippingCalclator = new ShippingCalculator();
     }
