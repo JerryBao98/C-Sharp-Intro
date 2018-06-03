@@ -1,0 +1,13 @@
+sealed modifiers cannot be overwritten, 
+you cannot use them as a base class.
+
+sealed is applied if you overwrite the virtual method of a 
+base class
+
+Sealed is not something that is really used. 
+
+Only speed is better, but the inheritance 
+heirarchy is messed up. 
+
+
+ 
