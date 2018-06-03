@@ -1,0 +1,13 @@
+similar to a class with syntax, but fundamentally different
+
+in .Net all interfaces will begin with an I, 
+They are not implemented. No access modifiers
+
+What they are used for"
+
+1. Build loosely coupled applications. Restaurant and a chef
+	example vs that and a man named john. 
+
+
+Refer to the actual cs file to get more info 
+about interfaces
