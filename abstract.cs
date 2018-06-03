@@ -24,7 +24,7 @@ namespace AbstractClass{
         //The derived class must override all the abstractions
         //Abstract classes cannot be initialized
         public abstract void Draw{
-
+ 
         }
     }
 
@@ -38,4 +38,6 @@ namespace AbstractClass{
 
     //Think of virtual as being optional, abstracts must always be implemented 
     //Abstraction forces you to follow the design
+
+    
 }
