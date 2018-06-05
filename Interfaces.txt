@@ -13,3 +13,6 @@ Refer to the actual cs file to get more info
 about interfaces
 
 Be sure to try out unit testing with the new course
+
+shippingcalculator: IshippingCalculator 
+means that shipping calculator implements IshippingCalculator
