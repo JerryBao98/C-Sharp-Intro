@@ -14,3 +14,4 @@ They look like base classes, but thats just syntaxical.
 Classes do not inherit interfaces, but they are used to implement them. 
 
 Interfaces are just a "contract".
+Interfaces are not used for code resuability but for loose coupling. 
