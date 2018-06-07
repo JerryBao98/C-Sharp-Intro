@@ -1,0 +1,16 @@
+Why interfaces are not used for multiple inheritance. 
+
+Actually just refer to the video. 
+TextBox: uIcontrol, Size
+
+This is multiple base classes. Which is not allowed.
+
+But you can say it implements these interfaces. 
+
+
+THERE IS NO CODE TO INHERIT, NO REUSABILITY.
+
+They look like base classes, but thats just syntaxical. 
+Classes do not inherit interfaces, but they are used to implement them. 
+
+Interfaces are just a "contract".
