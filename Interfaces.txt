@@ -15,4 +15,11 @@ about interfaces
 Be sure to try out unit testing with the new course
 
 shippingcalculator: IshippingCalculator 
-means that shipping calculator implements IshippingCalculator
+means that shipping calculator implements IshippingCalculator.
+
+You want to make them dependent on the interface rather than 
+the class. 
+
+Interfaces are an exmaple of loose coupling, they define
+the public service that a class must provide. 
+
