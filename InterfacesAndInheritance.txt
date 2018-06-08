@@ -1,7 +1,7 @@
 Why interfaces are not used for multiple inheritance. 
 
 Actually just refer to the video. 
-TextBox: uIcontrol, Size
+TextBox: uIControl, Size
 
 This is multiple base classes. Which is not allowed.
 
